@@ -1,6 +1,6 @@
 # Branch-and-Bound
-[Branch-and-Bound.py]\
-(Branch-and-Bound.py)
+[Branch and Bound Technique.py]\
+(Branch and Bound Technique.py)
 # output
 5-City TSP - Cost Matrix:
 A B C D E
